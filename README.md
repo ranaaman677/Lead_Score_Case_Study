@@ -1,4 +1,4 @@
-# Lead_Source_Case_Study
+# Lead_Score_Case_Study
 
 **Problem Statement**
 
